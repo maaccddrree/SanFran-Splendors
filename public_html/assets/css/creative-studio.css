@@ -10978,7 +10978,11 @@ body {
   background: #fff;
   box-sizing: border-box;
   color: black;
-  background-color: ;
+  /*background-image: url("https://media.giphy.com/media/1wQtxtisqRwex0aj8n/giphy.gif");
+  
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: contain;     a reusable code to change web looks  */  
 }
 
 p {
@@ -11904,8 +11908,8 @@ section.has-bg-img:after {
   top: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../imgs/section.jpg);
-  background-position: center center;
+  background-image: url(https://media.giphy.com/media/24nHoeuyAA27l22hJ7/giphy.gif);
+  background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11917,7 +11921,11 @@ section.has-bg-img.bg-img-1:after {
 }
 
 section.has-bg-img.bg-img-2:after {
-  background-image: url(../imgs/header.jpg);
+  background-image: url("https://media.giphy.com/media/24nHoeuyAA27l22hJ7/giphy.gif");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 section .section-subtitle {
